@@ -1,4 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -30,7 +29,8 @@
 <p>Sample text in the text field can be edited in the source code.</p>
 <h2>Bugs and Issues</h2>
 
-<p>The current bugs it demonstrates are the Justified option and vertical spacing issues. The justification option sets the Cappuccino justification option but no change occurs in the text. Vertical spacing shows some clipping for various fonts and sizes when set to middle or lower.</p>
+<p>The current bugs it demonstrates are the Justified option and vertical spacing issues. The justification option sets the Cappuccino justification option but no change occurs in the text. Vertical spacing shows some clipping for various fonts and sizes when set to middle or lower. We also would love to see the ability to control styling and font parameters on a character basis instead for the entire field.
+</p>
 <h2>License</h2>
 <p>Made available under the GPL3 license.</p>
 <h2>Collaboration</h2>

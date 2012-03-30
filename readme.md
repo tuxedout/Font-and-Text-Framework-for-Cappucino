@@ -24,7 +24,7 @@
   <li>Retrieve the JSON representation</li>
 </ul>
 <h2>Usage</h2>
-<p>Project must be placed at web-server's root or subfloder and the app can be accessed using any canvas capable browser.</p>
+<p>Project must be placed at web-server's root or subfolder and the app can be accessed using any canvas capable browser.</p>
 <p>Pressing the Get JSON button puts json with text and parameters to JS console.</p>
 <p>Sample text in the text field can be edited in the source code.</p>
 <h2>Bugs and Issues</h2>
